@@ -1,0 +1,9 @@
+###
+POST http://localhost:8080/electronic
+Content-Type: application/json
+
+{
+  "nameModel": "ps5",
+  "nameCompany": "sony",
+  "cost": "500"
+}
